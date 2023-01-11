@@ -84,9 +84,10 @@ flex-direction: column;
     font-size: 24px;
     color: #707070;
     text-align: end;
-    padding-right: 12px;
-    padding-bottom: 40px;
-    padding-top: 165px;
+    margin-right: 12px;
+    margin-bottom: 40px;
+    margin-top: 165px;
+    
 }
 
 /* არტიკლი 2 */
@@ -110,6 +111,10 @@ footer{
     align-items: center;
 }
 .contact{
+    font-size: 13px;
+    color: #f2f2f2;
+}
+.contact_1{
     font-size: 13px;
     color: #f2f2f2;
 }
